@@ -27,6 +27,7 @@ h1{
     text-align: left;
     margin-left: 600px;
     margin-top: 20px;
+    position: relative;
    
 }
 label
@@ -51,13 +52,15 @@ label
     font-size:30px ;
 }
 .size{
+   
     margin-left: 230px;
-    background-color: red;
+    background-color: rgb(72, 25, 116);;
     border-radius: 25%;
+    border: none;
 }
 span
 {
-    background-color: red;
+    background-color: rgb(72, 25, 116);;
     color: white;
 }
 
